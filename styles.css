@@ -130,6 +130,8 @@ ul li a {
 
 .faxada {
     margin-top: 100px;
+    margin-bottom: 100px;
+    background:linear-gradient(to right, #ff9595, #f7b06d); ;
 }
 
 .faxada .texto_grande {
