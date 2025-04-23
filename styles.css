@@ -204,10 +204,11 @@ ul li a {
 }
 
 .sobre {
-    background: linear-gradient(to right, #ff9595, #f7b06d); ;
+background: linear-gradient(to right, #ff9595, #f7b06d); ;
 width: 100%;
 height: auto;
 margin-top: 50px;
+
 }
 .sobre h2 {
     color: white;
@@ -233,6 +234,7 @@ margin-top: 50px;
 }
 .sobre img {
     width: 100%;
+    margin:20px ;
     display: block;
     border-radius: 5px;
     margin-top: 50px;
@@ -248,7 +250,7 @@ margin-top: 50px;
 .sobre .historia {
     width: 100%;
     height: auto;
-    margin-top: 20px;
+    margin: 30px;
     padding: 20px;
     background-color: white;
     border-radius: 5px;
@@ -274,4 +276,3 @@ margin-top: 50px;
     background-color: white;
     border-radius: 15px;
 }
-
