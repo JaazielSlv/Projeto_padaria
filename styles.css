@@ -204,8 +204,53 @@ ul li a {
 }
 
 .sobre {
-    background-color: blue;
+    background: linear-gradient(to right, #ff9595, #f7b06d); ;
 width: 100%;
 height: auto;
+margin-top: 50px;
 }
+.sobre h2 {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 46px;
+}
+.sobre h2::after{
+    content: "";
+    width: 60%;
+    height: 6px;
+    display: block;
 
+    background-color: white;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-top: 10;
+}
+.sobre .texto_grande {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+.sobre img {
+    width: 100%;
+    display: block;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.sobre h3{
+    color: white;
+    display: block;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.sobre .historia {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+}
