@@ -254,3 +254,24 @@ margin-top: 50px;
     border-radius: 5px;
     text-align: center;
 }
+.contato {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding: 100px;
+    text-align: center  ;
+    background:linear-gradient(to right, #ff9595, #f7b06d); ;
+}
+.contato h1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color:white;
+}
+.contato .dados_contatos {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+}
+
